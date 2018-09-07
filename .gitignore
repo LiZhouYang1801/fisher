@@ -2,3 +2,4 @@
 /.idea
 *.txt
 app/__pycache__/
+hello.py
